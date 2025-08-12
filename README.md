@@ -8,6 +8,7 @@ Python ile kullanıcı girişi, bakiye sorgulama, para çekme işlemlerini yapan
 # çekilmek istenen tutar hesapta yoksa ek hesabın kullanılmak istendiği sorulacak.
 
 hesaplar = [
+
     {
     
         "ad":"Eslem Oluk",

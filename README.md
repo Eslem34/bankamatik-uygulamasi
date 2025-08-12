@@ -9,19 +9,19 @@ Python ile kullanıcı girişi, bakiye sorgulama, para çekme işlemlerini yapan
 
 hesaplar = [
     {
-        "ad":"Sadık Turan",
+        "ad":"Eslem Oluk",
         "hesapNo": "12345",
         "bakiye": 20000,
         "ekHesap": 5000,
-        "username":"sadikturan",
+        "username":"eslemoluk",
         "password":"1234"
     },
     {
-        "ad":"Efe Turan",
+        "ad":"Ali Bilgi",
         "hesapNo": "12345",
         "bakiye": 30000,
         "ekHesap": 10000,
-        "username":"efeturan",
+        "username":"alibilgi",
         "password":"1234"
     }
 ]

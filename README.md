@@ -9,6 +9,7 @@ Python ile kullanıcı girişi, bakiye sorgulama, para çekme işlemlerini yapan
 
 hesaplar = [
     {
+    
         "ad":"Eslem Oluk",
         "hesapNo": "12345",
         "bakiye": 20000,

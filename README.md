@@ -1,8 +1,6 @@
 # bankamatik-uygulamasi
 Python ile kullanıcı girişi, bakiye sorgulama, para çekme işlemlerini yapan basit bir bankamatik uygulaması.
 
-# Bankamatik Uygulaması
-
 # Hesap bilgileri tutulacak. (dict)
 # menu, paraCekme, bakiyeSorgula fonksiyonları tanımlanacak.
 # çekilmek istenen tutar hesapta yoksa ek hesabın kullanılmak istendiği sorulacak.

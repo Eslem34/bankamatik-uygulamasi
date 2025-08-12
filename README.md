@@ -51,10 +51,12 @@ def menu(hesap):
     menu(hesap)
 
 def bakiyeSorgula(hesap):
+
     print(f"bakiye: {hesap["bakiye"]}")
     print(f"ek bakiye: {hesap["ekHesap"]}")
 
 def paraCekme(hesap):
+
     miktar = float(input("çekmek istediğiniz miktar: "))
 
     if hesap["bakiye"] >= miktar:
@@ -77,6 +79,7 @@ def paraCekme(hesap):
                 print("üzgünüz bakiyeniz yetersiz")
 
 def login():
+
     username = input("username: ")
     password = input("parola: ")
 
